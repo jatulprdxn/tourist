@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+  
+}
+
+.wrapper {
+  width: 88%;
+  margin: 0 auto;
+  max-width: 1351px;
+}
+
+img {
+  width: 100%;
+}
+
+.movie_section { margin-top: 80px; }
+
+.places {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+li {
+  border-radius:10px;
+  margin-bottom: 20px;
+  position: relative;
+  cursor: pointer;
+  background-color: #fff;
+  flex-basis:45%;
+  list-style-type: none;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  -ms-border-radius:10px;
+  -o-border-radius:10px;
+}
+
+.text-link { 
+    text-decoration: none;
+    color: initial;
+  }
+
+}
