@@ -1,0 +1,18 @@
+form {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.profileDetail {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  li { 
+    font-size: 30px;
+    span {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  }
+}

@@ -6,25 +6,25 @@
       "img" : "bombay-high-court.jpeg", 
       "name" : "Bombay High Court",
       "description" : "It is one of the oldest High Courts of India with jurisdiction over the states of Maharashtra and Goa, and, the Union Territories of Daman and Diu and Dadra and Nagar Havel",
-       "guide" : ["bob","harry","tweety","wolverine"]
+       "guide" : [{"name":"bob","img":"bob.jpeg"},{"name":"harry","img":"harry.jpeg"},{"name":"tweety","img":"tweety.jpeg"},{"name":"wolverine","img":"wolverine.jpeg"}]
     },
      {
       "img" : "gateway-of-India.jpeg",
       "name" : "Gate Way Of India",
       "description" : "The Gateway of India is an arch monument built during the 20th century in Bombay, India.",
-       "guide" : ["bob","tweety","wolverine"]
+       "guide" : [{"name":"bob","img":"bob.jpeg"},{"name":"tweety","img":"tweety.jpeg"},{"name":"wolverine","img":"wolverine.jpeg"}]
     },
       {
       "img" : "siddhivinayak-temple.jpeg",
       "name" : "Siddhivinayak Temple",
       "description": "The Shree Siddhivinayak Ganapati Mandir is a Hindu temple dedicated to Lord Shri Ganesh.",
-       "guide" : ["bob","harry","tweety","wolverine","Modi"]
+       "guide" : [{"name":"bob","img":"bob.jpeg"},{"name":"harry","img":"harry.jpeg"},{"name":"tweety","img":"tweety.jpeg"},{"name":"wolverine","img":"wolverine.jpeg"},{"name":"modi","img":"modi.jpeg"}]
     }, 
       {
       "img" : "elephenta.jpeg",
       "name" : "Elephanta Caves",
       "description" : "Elephanta Caves are a network of sculpted caves located on Elephanta Island, or Gharapuri in Mumbai Harbour, 10 kilometres to the east of the city of Mumbai in the Indian state of Maharashtra.",
-       "guide" : ["bob","harry","tweety"]
+       "guide" : [{"name":"bob","img":"bob.jpeg"},{"name":"harry","img":"harry.jpeg"},{"name":"tweety","img":"tweety.jpeg"}]
     }
     ]
   },
@@ -32,28 +32,28 @@
     "place":"kerala",
     "visitingplace": [ 
       {
-      "img" : "athirapally.jpg",
+      "img" : "athirapally.jpeg",
       "name" : "Athirappilly",
       "description": "Athirappilly is a first grade Grama Panchayath with 489.00 km² area in Chalakudy Taluk, Thrissur district in Kerala, India.",
-       "guide" : ["bob","harry"]
+       "guide" : [{"name":"bobby","img":"bob.jpeg"},{"name":"hari","img":"harry.jpeg"}]
     },
      {
-      "img": "vembanad-lake.jpg",
+      "img": "vembanad-lake.jpeg",
       "name" : "Vembanad",
       "description": "Vembanad is the longest lake in India, and the largest lake in the state of Kerala. It is also counted as one of the largest lakes in India.",
-       "guide" : ["bob","harry","tweety","wolverine","Modi"]
+       "guide" : [{"name":"bobby","img":"bob.jpeg"},{"name":"hari","img":"harry.jpeg"},{"name":"samy","img":"tweety.jpeg"}]
     },
      {
       "img": "ponmudi.jpeg",
       "name" : "Ponmudi",
       "description": "Ponmudi is a hill station in the Thiruvananthapuram District of Kerala in India.",
-       "guide" : ["bob","wolverine"]
+       "guide" : [{"name":"bobby","img":"bob.jpeg"},{"name":"wolve","img":"wolverine.jpeg"}]
     },
      {
-      "img": "alleppey.jpg",
+      "img": "alleppey.jpeg",
       "name" : "Alleppey",
       "description": "Alappuzha (or Alleppey) is a city on the Laccadive Sea in the southern Indian state of Kerala. It's best known for houseboat cruises along the rustic Kerala backwaters, a network of tranquil canals and lagoons.",
-       "guide" : ["Alleppey","Ponmudi","Athirappilly","Vembanad"]
+       "guide" : [{"name":"bobby","img":"bob.jpeg"},{"name":"wolve","img":"wolverine.jpeg"},{"name":"hari","img":"harry.jpeg"}]
     }
   ]
   }

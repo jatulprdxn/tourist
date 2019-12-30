@@ -1,0 +1,44 @@
+img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+  -webkit-border-radius: 10px 10px 0 0;
+  -moz-border-radius: 10px 10px 0 0;
+  -ms-border-radius: 10px 10px 0 0;
+  -o-border-radius: 10px 10px 0 0;
+}
+
+//.guide_section { margin-top: 80px; }
+
+.guides {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+li {
+  border-radius:10px;
+  border:1px solid;
+  margin-bottom: 20px;
+  position: relative;
+  flex-basis:32%;
+  background-color: #fff;
+  cursor: pointer;
+  text-align: center;
+  list-style-type: none;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  -ms-border-radius:10px;
+  -o-border-radius:10px;
+}
+
+span {
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.text-link { 
+    text-decoration: none;
+    color: initial;
+  }
+
+}

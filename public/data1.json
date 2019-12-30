@@ -1,0 +1,60 @@
+[
+  {
+  "name":"bob",
+  "img":"bob.jpeg",
+  "exprience":"2 year",
+  "anhourcharge":"600rs",
+  "guideofplace":[{"placename":"Bombay High Court","charge":300},{"placename":"Gate Way Of India","charge":500},{"placename":"Siddhivinayak Temple","charge":400},{"placename":"Elephanta Caves","charge":800},{"placename":"National Park","charge":700}]
+  },
+  {
+    "name":"harry",
+    "img":"harry.jpeg",
+    "exprience":"1.5 year",
+    "anhourcharge":"400rs",
+    "guideofplace":[{"placename":"Bombay High Court","charge":300},{"placename":"Gate Way Of India","charge":500},{"placename":"Siddhivinayak Temple","charge":400},{"placename":"Elephanta Caves","charge":800},{"placename":"National Park","charge":700}]
+  },
+  {
+    "name":"tweety",
+    "img":"tweety.jpeg",
+    "exprience":"1 year",
+    "anhourcharge":"300rs",
+    "guideofplace":[{"placename":"Bombay High Court","charge":300},{"placename":"Gate Way Of India","charge":500},{"placename":"Siddhivinayak Temple","charge":400}]
+  },
+  {
+    "name":"wolverine",
+    "img":"wolverine.jpeg",
+    "exprience":"2.5 year",
+    "anhourcharge":"600rs",
+    "guideofplace":[{"placename":"Bombay High Court","charge":300},{"placename":"Gate Way Of India","charge":500},{"placename":"Siddhivinayak Temple","charge":400},{"placename":"Elephanta Caves","charge":800},{"placename":"National Park","charge":700},{"placename":"Hajiali","charge":650}]
+  },
+  {
+    "name":"modi",
+    "img":"modi.jpeg",
+    "exprience":"5 year",
+    "anhourcharge":"1000rs",
+    "guideofplace":[{"placename":"Bombay High Court","charge":300},{"placename":"Gate Way Of India","charge":500},{"placename":"Siddhivinayak Temple","charge":400},{"placename":"Elephanta Caves","charge":800},{"placename":"National Park","charge":700},{"placename":"Valekswar","charge":550},{"placename":"Hajiali","charge":650},"Etc"]
+  },
+  {
+    "name":"bobby",
+    "img":"bob.jpeg",
+    "exprience":"1.5 year",
+    "anhourcharge":"450rs",
+    "guideofplace":[{"placename":"Athirappilly","charge":300},{"placename":"Vembanad","charge":500},{"placename":"Ponmudi","charge":400},{"placename":"Alleppey","charge":800},{"placename":"National Park","charge":700}]
+  },
+  {
+    "name":"hari",
+    "img":"harry.jpeg",
+    "exprience":"2 year",
+    "anhourcharge":"550rs",
+    "guideofplace":[{"placename":"Athirappilly","charge":300},{"placename":"Vembanad","charge":500},{"placename":"Ponmudi","charge":400},{"placename":"Alleppey","charge":800},{"placename":"Puducherry","charge":700}]
+  },
+  {
+    "name":"samy",
+    "img":"tweety.jpeg",
+    "exprience":"1 year",
+    "anhourcharge":"300rs",
+    "guideofplace":[{"placename":"Athirappilly","charge":300},{"placename":"Vembanad","charge":500},{"placename":"Ponmudi","charge":400}]
+  }
+    
+
+]

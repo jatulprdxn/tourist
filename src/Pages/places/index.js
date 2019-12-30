@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 import './style.scss';
 
 function Places(props) {
-  console.log("places",props);
+  
   return (
     <div className="wrapper">
       <main>
@@ -17,7 +17,7 @@ function Places(props) {
               props.data[0].visitingplace.map((item,index) => 
                 <li key={index}>
                   <Link to={`/places/${item.name}`} className="text-link">
-                    <img src={`/images/${item.img}`} alt={item.name} />
+                    <img src={`${require('./images/'+ item.img )}`} alt={item.name} />
                     <span>{item.name}</span>
                     <p>{item.description}</p>
                   </Link>

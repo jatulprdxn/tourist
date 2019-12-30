@@ -1,5 +1,6 @@
 const intialState = {
-    cityData: []
+    cityData: [],
+    guideDetail:[]
 }
 
 const reducer = (state = intialState,action) => {
@@ -9,6 +10,12 @@ const reducer = (state = intialState,action) => {
         ...state,
         cityData:action.payload
       }
+    }
+    case "GUIDEDETAIL": {
+     return {
+      ...state,
+      guideDetail:action.payload
+     }
     }
     default:
       return state;
